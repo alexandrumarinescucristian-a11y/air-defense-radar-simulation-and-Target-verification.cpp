@@ -34,7 +34,7 @@ cout << "--- Date pentru avionul " << i << " ---" << endl;
 
 cout << "Frecventa: ";
 
-cin >> radar[i].frecventa; // Folosim [i], nu [100]
+cin >> radar[i].frecventa; 
 
 
 
@@ -48,7 +48,7 @@ cout << "Viteza: ";
 
 cin >> radar[i].viteza;
 
-} // Inchidem acolada for-ului de citire
+} 
 
 
 
